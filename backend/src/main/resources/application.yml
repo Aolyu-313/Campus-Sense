@@ -1,0 +1,34 @@
+server:
+  address: 0.0.0.0
+  port: 8080
+
+spring:
+  application:
+    name: campussense-backend
+  datasource:
+    url: ${CAMPUSSENSE_DB_URL:jdbc:mysql://localhost:3306/campussense?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC&characterEncoding=utf8}
+    username: ${CAMPUSSENSE_DB_USERNAME:root}
+    password: ${CAMPUSSENSE_DB_PASSWORD:password}
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    open-in-view: false
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL8Dialect
+        format_sql: true
+    show-sql: false
+
+springdoc:
+  api-docs:
+    path: /api-docs
+  swagger-ui:
+    path: /swagger-ui.html
+
+campussense:
+  external:
+    # 高德用于逆地理编码和 weatherInfo 天气；QWeather 仅用于空气质量。留空则使用 fallback 数据。
+    qweather-api-key: ${QWEATHER_API_KEY:181a32a36fea4947b15ff3da641e987c}
+    amap-api-key: ${AMAP_API_KEY:e94dc3b5555a592b781ed3446330eeb7}
+    cache-enabled: true
