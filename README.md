@@ -446,54 +446,24 @@ mvn test
 8. Open Nearby and confirm nearby reports are shown.
 ---
 
-## 14. Demo Video and Release APK｜演示视频与 Release APK
+## 14. Demo Video and Release APK
 
-### Demo video｜演示视频
+### Demo video
 
-Please place the final demo video in the repository root or provide a link here:
-
-```text
-demo-video.mp4
-```
-
-中文说明：请将最终演示视频放在仓库根目录，或在此处提供链接：
+Place the final demo video in the repository root or provide a link here:
 
 ```text
 demo-video.mp4
 ```
 
-Suggested demo flow｜建议视频流程：
+### Release APK
 
-1. Show backend running.
-2. Show `/api/health` returning `UP`.
-3. Open CampusSense in Android Emulator.
-4. Show Settings and backend URL.
-5. Show Dashboard comfort score.
-6. Submit a report.
-7. Show History.
-8. Show Nearby reports.
-
-### Release APK｜Release 安装包
-
-Build release APK｜构建 release APK：
+Build release APK
 
 ```bash
 cd mobile
 flutter build apk --release
 ```
-
-Generated file｜生成文件位置：
-
-```text
-mobile/build/app/outputs/flutter-apk/app-release.apk
-```
-
-Recommended final name｜建议最终命名：
-
-```text
-campussense-release.apk
-```
-
 ---
 
 ## 15. Design Process
