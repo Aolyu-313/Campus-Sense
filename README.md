@@ -4,28 +4,26 @@
 
 ---
 
-## Table of Contents｜目录
+## Table of Contents
 
-- [1. Project Overview｜项目概述](#1-project-overview项目概述)
-- [2. Problem Statement｜问题陈述](#2-problem-statement问题陈述)
-- [3. Target Users and Persona｜目标用户与用户画像](#3-target-users-and-persona目标用户与用户画像)
-- [4. User Journey and Storyboard｜用户旅程与故事板](#4-user-journey-and-storyboard用户旅程与故事板)
-- [5. Key Features｜主要功能](#5-key-features主要功能)
-- [6. Screens and Interaction Design｜页面与交互设计](#6-screens-and-interaction-design页面与交互设计)
-- [7. System Architecture｜系统架构](#7-system-architecture系统架构)
-- [8. Sensors, APIs and Services｜传感器、API 与服务](#8-sensors-apis-and-services传感器api-与服务)
-- [9. Data Collection and Handling｜数据收集与处理](#9-data-collection-and-handling数据收集与处理)
-- [10. Comfort Score Logic｜舒适度评分逻辑](#10-comfort-score-logic舒适度评分逻辑)
-- [11. Project Structure｜项目结构](#11-project-structure项目结构)
-- [12. How to Run Locally｜本地运行方法](#12-how-to-run-locally本地运行方法)
-- [13. Android Emulator Notes｜Android 模拟器说明](#13-android-emulator-notesandroid-模拟器说明)
-- [14. Testing｜测试](#14-testing测试)
-- [15. Demo Video and Release APK｜演示视频与 Release APK](#15-demo-video-and-release-apk演示视频与-release-apk)
-- [16. Design Process｜设计过程](#16-design-process设计过程)
-- [17. Limitations｜当前限制](#17-limitations当前限制)
-- [18. Future Improvements｜未来改进方向](#18-future-improvements未来改进方向)
-- [19. Use of Generative AI｜生成式 AI 使用说明](#19-use-of-generative-ai生成式-ai-使用说明)
-- [20. Credits｜致谢](#20-credits致谢)
+- [1. Project Overview]
+- [2. Problem Statement]
+- [3. Target Users and Persona]
+- [4. User Journey and Storyboard]
+- [5. Key Features]
+- [6. Screens and Interaction Design]
+- [7. System Architecture]
+- [8. Sensors, APIs and Services]
+- [9. Data Collection and Handling]
+- [10. Comfort Score Logic]
+- [11. Project Structure]
+- [12. How to Run Locally]
+- [13. Testing]
+- [14. Demo Video and Release APK]
+- [15. Design Process]
+- [16. Limitations]
+- [17. Future Improvements]
+- [18. Use of Generative AI]
 
 ---
 
