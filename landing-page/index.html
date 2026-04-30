@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CampusSense</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="hero">
+    <nav class="nav">
+      <div class="logo">CampusSense</div>
+      <a href="#features" class="nav-link">Features</a>
+    </nav>
+
+    <section class="hero-content">
+      <div>
+        <p class="tag">Connected Environments · Flutter Mobile App</p>
+        <h1>Understand the comfort of your campus environment.</h1>
+        <p class="subtitle">
+          CampusSense combines GPS location, movement sensing, weather, air quality,
+          and user feedback to calculate a simple micro-environment comfort score.
+        </p>
+        <div class="buttons">
+          <a href="#features" class="button primary">View Features</a>
+          <a href="#how-it-works" class="button secondary">How It Works</a>
+        </div>
+      </div>
+
+      <div class="phone-card">
+        <div class="score-circle">87</div>
+        <h2>Comfortable</h2>
+        <p>Good for outdoor stay</p>
+        <div class="mini-grid">
+          <span>GPS</span>
+          <span>Stationary</span>
+          <span>22°C</span>
+          <span>55%</span>
+        </div>
+      </div>
+    </section>
+  </header>
+
+  <main>
+    <section class="section" id="problem">
+      <h2>Problem</h2>
+      <p>
+        Students and campus users often do not know whether a nearby outdoor or
+        semi-outdoor space is comfortable for studying, resting, or staying.
+        CampusSense turns environmental data and user reports into a quick,
+        readable comfort score.
+      </p>
+    </section>
+
+    <section class="section" id="features">
+      <h2>Key Features</h2>
+      <div class="cards">
+        <article class="card">
+          <h3>Comfort Dashboard</h3>
+          <p>Shows a real-time comfort score, location, weather, air quality, and movement state.</p>
+        </article>
+        <article class="card">
+          <h3>User Reports</h3>
+          <p>Allows users to submit subjective feedback about their current environment.</p>
+        </article>
+        <article class="card">
+          <h3>History & Nearby</h3>
+          <p>Users can review past reports and explore nearby environmental feedback.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="section" id="how-it-works">
+      <h2>How It Works</h2>
+      <ol class="steps">
+        <li>The Flutter app reads GPS location and movement state from the device.</li>
+        <li>The Spring Boot backend receives the location and requests weather and air quality data.</li>
+        <li>The backend calculates a comfort score and stores reports in MySQL.</li>
+        <li>The app displays the dashboard, history, and nearby comfort reports.</li>
+      </ol>
+    </section>
+
+    <section class="section">
+      <h2>Technology Stack</h2>
+      <div class="tech-list">
+        <span>Flutter</span>
+        <span>Dart</span>
+        <span>Spring Boot</span>
+        <span>MySQL</span>
+        <span>GPS</span>
+        <span>Accelerometer</span>
+        <span>AMap API</span>
+        <span>QWeather API</span>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>CampusSense · CASA0015 Mobile Systems & Interactions</p>
+  </footer>
+</body>
+</html>
