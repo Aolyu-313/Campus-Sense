@@ -6,25 +6,45 @@
 
 ## Table of Contents
 
-- [1. Project Overview]
-- [2. Problem Statement]
-- [3. Target Users and Persona]
-- [4. User Journey and Storyboard]
-- [5. Key Features]
-- [6. Screens and Interaction Design]
-- [7. System Architecture]
-- [8. Sensors, APIs and Services]
-- [9. Data Collection and Handling]
-- [10. Comfort Score Logic]
-- [11. Project Structure]
-- [12. How to Run Locally]
-- [13. Testing]
-- [14. Demo Video and Release APK]
-- [15. Design Process]
-- [16. Limitations]
-- [17. Future Improvements]
-- [18. Use of Generative AI]
-
+- [1. Project Overview](#1-project-overview)
+- [2. Problem Statement](#2-problem-statement)
+- [3. Target Users and Persona](#3-target-users-and-persona)
+- [4. User Journey and Storyboard](#4-user-journey-and-storyboard)
+- [5. Key Features](#5-key-features)
+- [6. Screens and Interaction Design](#6-screens-and-interaction-design)
+  - [6.1 Splash / Onboarding](#61-splash--onboarding)
+  - [6.2 Dashboard](#62-dashboard)
+  - [6.3 Report](#63-report)
+  - [6.4 History](#64-history)
+  - [6.5 Nearby](#65-nearby)
+  - [6.6 Settings](#66-settings)
+- [7. System Architecture](#7-system-architecture)
+- [8. Sensors, APIs and Services](#8-sensors-apis-and-services)
+  - [Mobile sensors](#mobile-sensors)
+  - [External APIs / services](#external-apis--services)
+- [9. Data Collection and Handling](#9-data-collection-and-handling)
+  - [Data collected](#data-collected)
+  - [Privacy approach](#privacy-approach)
+- [10. Comfort Score Logic](#10-comfort-score-logic)
+- [11. Project Structure](#11-project-structure)
+- [12. How to Run Locally](#12-how-to-run-locally)
+  - [12.1 Prerequisites](#121-prerequisites)
+  - [12.2 Start MySQL](#122-start-mysql)
+  - [12.3 Start the backend](#123-start-the-backend)
+  - [12.4 Run the Flutter mobile app](#124-run-the-flutter-mobile-app)
+- [13. Testing](#13-testing)
+  - [13.1 Flutter tests](#131-flutter-tests)
+  - [13.2 Flutter static analysis](#132-flutter-static-analysis)
+  - [13.3 Backend tests](#133-backend-tests)
+  - [13.4 Manual user testing scenario](#134-manual-user-testing-scenario)
+- [14. Demo Video and Release APK](#14-demo-video-and-release-apk)
+  - [Demo video](#demo-video)
+  - [Release APK](#release-apk)
+- [15. Design Process](#15-design-process)
+  - [Design goals](#design-goals)
+- [16. Limitations](#16-limitations)
+- [17. Future Improvements](#17-future-improvements)
+- [18. Use of Generative AI](#18-use-of-generative-ai)
 ---
 
 ## 1. Project Overview
