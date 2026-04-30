@@ -97,80 +97,59 @@ Campus users often make quick decisions about where to study, rest, or spend tim
 
 ### 6.1 Splash / Onboarding
 
-**English**  
 Introduces the purpose of CampusSense and prepares the user for location-based environmental sensing.
 
-Suggested screenshot path：
+Screenshot path：
 
 ```text
 screenshots/01_splash.png
 ```
 
-### 6.2 Dashboard｜仪表盘
+### 6.2 Dashboard
 
-**English**  
 Displays the current comfort score, comfort level, GPS coordinate, location source, movement state, weather, humidity, air quality, and advice.
 
-**中文**  
-展示当前舒适度评分、舒适等级、GPS 坐标、定位来源、运动状态、天气、湿度、空气质量和建议。
-
-Suggested screenshot path｜建议截图路径：
+Screenshot path：
 
 ```text
 screenshots/02_dashboard.png
 ```
 
-### 6.3 Report｜反馈提交
-
-**English**  
+### 6.3 Report
+ 
 Allows the user to submit a subjective environmental comfort report. The report includes a scene, feedback tags, optional note, device ID, GPS coordinate, and movement state.
 
-**中文**  
-允许用户提交主观环境舒适度反馈。反馈内容包括场景、标签、可选备注、匿名设备 ID、GPS 坐标和运动状态。
-
-Suggested screenshot path｜建议截图路径：
+Screenshot path：
 
 ```text
 screenshots/03_report.png
 ```
 
-### 6.4 History｜历史记录
+### 6.4 History
 
-**English**  
 Shows recent user reports and trend data for the current anonymous device ID.
 
-**中文**  
-显示当前匿名设备 ID 对应的历史反馈和趋势数据。
-
-Suggested screenshot path｜建议截图路径：
+Screenshot path：
 
 ```text
 screenshots/04_history.png
 ```
 
-### 6.5 Nearby｜附近反馈
+### 6.5 Nearby
 
-**English**  
 Shows nearby reports and a lightweight spatial comfort map based on coordinates and distance.
 
-**中文**  
-基于坐标和距离显示附近用户反馈，并提供轻量级空间舒适度地图视图。
-
-Suggested screenshot path｜建议截图路径：
+Screenshot path：
 
 ```text
 screenshots/05_nearby.png
 ```
 
-### 6.6 Settings｜设置
+### 6.6 Settings
 
-**English**  
 Allows the user to configure the backend base URL, check backend health, view the anonymous device ID, set demo coordinates, and switch language.
 
-**中文**  
-允许用户配置后端地址、检查后端状态、查看匿名设备 ID、设置演示坐标以及切换语言。
-
-Suggested screenshot path｜建议截图路径：
+Screenshot path：
 
 ```text
 screenshots/06_settings.png
