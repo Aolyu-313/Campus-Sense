@@ -253,9 +253,9 @@ Comfort levels
 
 ---
 
-## 11. Project Structure｜项目结构
+## 11. Project Structure
 
-Recommended final repository layout｜建议最终 GitHub 仓库结构：
+Final repository layout：
 
 ```text
 CampusSense/
@@ -295,8 +295,6 @@ Actual development folders may be named differently in the submitted archive. Fo
 backend/
 mobile/
 ```
-
-中文说明：实际压缩包中的目录名称可能略有不同，但本地复现时最重要的是根目录下的 `backend/` 和 `mobile/` 两个文件夹。
 
 ---
 
