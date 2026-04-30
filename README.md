@@ -93,17 +93,14 @@ Campus users often make quick decisions about where to study, rest, or spend tim
 
 ---
 
-## 6. Screens and Interaction Design｜页面与交互设计
+## 6. Screens and Interaction Design
 
-### 6.1 Splash / Onboarding｜启动介绍页
+### 6.1 Splash / Onboarding
 
 **English**  
 Introduces the purpose of CampusSense and prepares the user for location-based environmental sensing.
 
-**中文**  
-介绍 CampusSense 的用途，让用户理解 App 会基于位置和环境数据进行舒适度感知。
-
-Suggested screenshot path｜建议截图路径：
+Suggested screenshot path：
 
 ```text
 screenshots/01_splash.png
