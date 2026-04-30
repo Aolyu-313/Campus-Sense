@@ -26,34 +26,6 @@ The app uses Flutter and Dart for the mobile interface and communicates with a S
 
 ## Bibliography
 
-Android Developers (2026) *Build and release an Android app*. Available at: https://developer.android.com/studio/publish (Accessed: 30 April 2026).
-
-AutoNavi (2026) *AMap Open Platform documentation*. Available at: https://lbs.amap.com/ (Accessed: 30 April 2026).
-
-Dart (2026) *Dart documentation*. Available at: https://dart.dev/guides (Accessed: 30 April 2026).
-
-Flutter (2026) *Flutter documentation*. Available at: https://docs.flutter.dev/ (Accessed: 30 April 2026).
-
-GitHub Docs (2026) *About READMEs*. Available at: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes (Accessed: 30 April 2026).
-
-Google (2026) *Geolocator package*. Available at: https://pub.dev/packages/geolocator (Accessed: 30 April 2026).
-
-Google (2026) *http package*. Available at: https://pub.dev/packages/http (Accessed: 30 April 2026).
-
-Google (2026) *sensors_plus package*. Available at: https://pub.dev/packages/sensors_plus (Accessed: 30 April 2026).
-
-Google (2026) *shared_preferences package*. Available at: https://pub.dev/packages/shared_preferences (Accessed: 30 April 2026).
-
-MySQL (2026) *MySQL documentation*. Available at: https://dev.mysql.com/doc/ (Accessed: 30 April 2026).
-
-QWeather (2026) *QWeather Developers*. Available at: https://dev.qweather.com/ (Accessed: 30 April 2026).
-
-Spring (2026) *Spring Boot reference documentation*. Available at: https://docs.spring.io/spring-boot/ (Accessed: 30 April 2026).
-
-Spring (2026) *Spring Data JPA documentation*. Available at: https://spring.io/projects/spring-data-jpa (Accessed: 30 April 2026).
-
-Springdoc (2026) *Springdoc OpenAPI documentation*. Available at: https://springdoc.org/ (Accessed: 30 April 2026).
-
 ## Declaration of Authorship
 
 I, Ao Lyu, confirm that the work presented in this assessment is my own. Where information, code examples, documentation, tutorials, plugins, libraries, or Generative AI assistance have been used to support the development, debugging, writing, or presentation of this project, this has been indicated in the work through the repository, submission materials, bibliography, and project documentation.
